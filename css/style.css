@@ -1,0 +1,12 @@
+#main-content {
+    width: 850px;
+    height: auto;
+    margin: 10px auto;
+}
+
+#canvas-div {
+    width: 336px;
+    height: 512px;
+    float: left;
+    border: 1px solid #000;
+}
